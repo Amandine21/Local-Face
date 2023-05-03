@@ -1,5 +1,5 @@
 # Local Face
-This repository containts the code and instructions to use a Facial Detection lock system known as "Local Face". This system will require a camera to idenify users and a computer to run a facial detection script. The script will make the decisision to see if the user is valid, and if so it will automatically unlock and electronic door lock. This lock system uses OpenCV Libarary and doese not require any internet connection since it's a local system. This product is open source for the public to use,
+This repository containts the code and instructions to use a Facial Detection lock system known as "Local Face". This system will require a camera to idenify users, a computer to run a facial detection script, and a automatic door lock along with its driver for the computer to communicate with the lock. The script will make the decisision to see if the user is valid, and if so it will automatically unlock and electronic door lock. This lock system uses OpenCV Libarary and doese not require any internet connection since it's a local system. This product is open source for the public to use,
 
 The creators of this product are Elvis Hedary, Garret Van Etten, Alexander Hanks, Carlos Zapata III, Alex Warren, and Irene Masabarakiza
 
